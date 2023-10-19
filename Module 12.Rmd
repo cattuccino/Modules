@@ -158,7 +158,7 @@ Note that in the example above, we have taken our least squares criterion to mea
 **The lm() Function**
 The function lm() in R makes all of the calculations we did above for Model I regression very easy! Below, we pass the zombies dataframe and variables directly to lm() and assign the result to an R object called m. We can then look at the various elements that R calculates about this model.
 ```{r}
-m <- lm(height ~ weight, data = d)
+m <- lm(height ~ weight, data = d) #weight is response variable and will always be in this place and format for the function
 m
 ```
 ```{r}
