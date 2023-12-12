@@ -1,7 +1,7 @@
 ---
 title: "AN/BI 588: End-of-Semester Self Evaluation"
 author: "Cat Metcalf"
-date: "December 10, 2023"
+date: "December 12, 2023"
 output: 
   rmarkdown::html_document:
     theme: cosmo
@@ -9,25 +9,16 @@ output:
 
 ***
 
-### [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html)
-### [Course Outline](https://fuzzyatelin.github.io/bioanth-stats/outline.html)
-### [Modules](https://fuzzyatelin.github.io/bioanth-stats/modules.html)
-### [Assignments](https://fuzzyatelin.github.io/bioanth-stats/assignments.html)
-### [Resources](https://fuzzyatelin.github.io/bioanth-stats/resources.html)
-### [Policies](https://fuzzyatelin.github.io/bioanth-stats/policies.html)
-### [Insurmountable Coding Problems](https://fuzzyatelin.github.io/bioanth-stats/studentproblems.html)
-
-***
 
 <center>
 
-<font size="+2"><b>Academic Mantra and whatever.</b></font></center><br>
+<font size="+2"><b>Roll out!</b></font></center><br>
 
-<center><p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sbs.com.au%2Fvoices%2Farticle%2Fjust-a-collection-of-trixie-and-katya-content-with-absolutely-no-context%2F37blc2xcs&psig=AOvVaw1Gxn_5WJ_8a1oVc5Oa7fie&ust=1702320255612000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj0lKbDhYMDFQAAAAAdAAAAABAe" style="border:5px solid black"></p>
+<center><p><img src="https://media.giphy.com/media/5R19T94GDRDGMda4NM/giphy.gif?cid=ecf05e4736jljenv5m866vg45nv1evkp4iivx78n89fn5iz7&ep=v1_gifs_search&rid=giphy.gif&ct=g"></p>
 </center><br>  
 
 <center>
- insert summary here before done
+ In this course I learned how to organize and statistically interpret data using the R language. I replicated other data analyses, created my own module, and ran through coding problems throughout homework assignments to improve my understanding of how best to present data with code. Leaving this course, I feel more confident in my abilities to understand other's code and use it to communicate my own research in the future (In a way that even Trixie would love it!).
 
 </center>
 ***
@@ -38,16 +29,16 @@ output:
 
 Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.<br><br><br><br><br><br>
 
--Readings both textbook and teamwork before class each week
--Modules (18 total, 5 group based presentations) 
--Homework Sets (total= 5) with associated peer commentaries:
-  -HW1 
-  -HW2
-  -HW3
-  -HW4
-  -HW5
--Data Analysis Replication Assignment
--Group Vignette
+1. Readings both textbook and teamwork before class each week
+2. Modules (18 total, 5 group based presentations) 
+3. Homework Sets (total= 5) with associated peer commentaries:
+  + HW1 
+  + HW2
+  + HW3
+  + HW4
+  + HW5
+4. Data Analysis Replication Assignment
+5. Group Vignette
 
 ***
 
@@ -57,19 +48,20 @@ Please give me a bulleted/numbered list of each task you were asked to do for th
 
 Please let me know how many of the above tasks you accomplished. If any of them were accomplished later than stipulated, please note that. If you contacted me about them being late (and we discussed it and I said it was ok), please note that, too. You may provide a bulleted/numbered list matching the one above.<br><br><br><br><br><br>
 
--Readings I focused mostly on the textbooks at the start of the semester, but then found them less helpful to read each week once I got more confident with my coding abilities, so I would only consult them when I needed troubleshooting help.
--Modules:
-  -Modules from Week 2: https://github.com/cattuccino/AN588-Week-2/blob/main/AN588-Week-2.html 
-  -Modules from Week 4 (Module 8; did not knit into html sorry!): https://github.com/cattuccino/AN588-Week-4-modules/blob/main/AN588-Week-4-cmetcalf.Rmd 
-  -Modules 9-18, including 21 (Group 3 module content): All within same repo as rmd files https://github.com/cattuccino/Modules . Note: I did not complete the first week of group modules because I had technical difficulties, and then did not complete Group 5's module because of the large data download.
--Homework Sets (total= 5) with associated peer commentaries:
-  -HW1: https://github.com/cattuccino/AN588-Week-2-cmetcalf/blob/main/cmetcalf_FinalHomeworkCode_01.html ; Peer Commentary for Lia (Chuhan) Bao: https://github.com/cbao2397/AN588-Week-2-chuhan/blob/main/chuhan_PeerCommentary_cmetcalf_01.html 
-  -HW2: https://github.com/cattuccino/AN588-Week-3-cmetcalf/blob/main/cmetcalf_FinalHomeworkCode_02.html ; Peer Commentary for Emiley Garcia-Zych: https://github.com/EmileyGarciaZych/AN558-Week3-emileygz/blob/master/cmetcalf_PeerCommentary_Emileygz_02.html 
-  -HW3: https://github.com/cattuccino/AN588-Zombies-cmetcalf/blob/main/cmetcalf_FinalHomeworkCode_03.html ; Peer Commentary for Samantha Vee: https://github.com/samanthavee/AN588_Zombies_svee/blob/master/svee_PeerCommentary_cmetcalf_03.html
-  -HW4: Had difficulties with knitting into html that I could not fix because of an issue with git, so linking the repository and original homework code before final version (final version is in repo as an rmarkdown!) https://github.com/cattuccino/AN588_Malfunction_cmetcalf and original: https://github.com/cattuccino/AN588_Malfunction_cmetcalf/blob/main/cmetcalf_OriginalHomeworkCode_04.html ; Peer commentary for Reese Hotten-Sommers: https://github.com/rhottensomers/AN588_Malfunction_reesehs/blob/main/cmetcalf_PeerCommentary_reesehs.html 
-  -HW5: https://github.com/cattuccino/AN588_Boots_cmetcalf/blob/main/cmetcalf_FinalHomeworkCode_05.html ; Peer Commentary for Paige Becker: https://github.com/paigebecker1/AN588_Boots_pbecker/blob/main/cmetcalf_PeerCommentary_pbecker_05.html 
--Data Analysis Replication Assignment 
--Group Vignette
+1. Readings I focused mostly on the textbooks at the start of the semester, but then found them less helpful to read each week once I got more confident with my coding abilities, so I would only consult them when I needed troubleshooting help.
+2. Modules:
+  + Modules from Week 2: (https://github.com/cattuccino/AN588-Week-2/blob/main/AN588-Week-2.html) 
+  + Modules from Week 4 (Module 8; did not knit into html sorry!): (https://github.com/cattuccino/AN588-Week-4-modules/blob/main/AN588-Week-4-cmetcalf.Rmd) 
+  + Modules 9-18, including 21 (Group 3 module content): All within same repo as rmd files (https://github.com/cattuccino/Modules) . Note: I did not complete the first week of the Group Vignette modules because I had technical difficulties, and then did not complete Group 5's module because of the large data download.
+3. Homework Sets (total= 5) with associated peer commentaries:
+  + HW1: (https://github.com/cattuccino/AN588-Week-2-cmetcalf/blob/main/cmetcalf_FinalHomeworkCode_01.html) ; Peer Commentary for Lia (Chuhan) Bao: (https://github.com/cbao2397/AN588-Week-2-chuhan/blob/main/chuhan_PeerCommentary_cmetcalf_01.html) 
+  + HW2: (https://github.com/cattuccino/AN588-Week-3-cmetcalf/blob/main/cmetcalf_FinalHomeworkCode_02.html) ; Peer Commentary for Emiley Garcia-Zych: (https://github.com/EmileyGarciaZych/AN558-Week3-emileygz/blob/master/cmetcalf_PeerCommentary_Emileygz_02.html) 
+  + HW3: (https://github.com/cattuccino/AN588-Zombies-cmetcalf/blob/main/cmetcalf_FinalHomeworkCode_03.html) ; Peer Commentary for Samantha Vee: (https://github.com/samanthavee/AN588_Zombies_svee/blob/master/svee_PeerCommentary_cmetcalf_03.html)
+  + HW4: Had difficulties with knitting into html that I could not fix because of an issue with git, so linking the repository and original homework code before final version (final version is in repo as an rmarkdown!) (https://github.com/cattuccino/AN588_Malfunction_cmetcalf) and original: (https://github.com/cattuccino/AN588_Malfunction_cmetcalf/blob/main/cmetcalf_OriginalHomeworkCode_04.html) ; Peer commentary for Reese Hotten-Sommers: (https://github.com/rhottensomers/AN588_Malfunction_reesehs/blob/main/cmetcalf_PeerCommentary_reesehs.html) 
+  + HW5: (https://github.com/cattuccino/AN588_Boots_cmetcalf/blob/main/cmetcalf_FinalHomeworkCode_05.html) ; Peer Commentary for Paige Becker: (https://github.com/paigebecker1/AN588_Boots_pbecker/blob/main/cmetcalf_PeerCommentary_pbecker_05.html) 
+4. Data Analysis Replication Assignment: (https://github.com/cattuccino/Metcalf-data-replication-assignment/blob/main/cmetcalf-data-replication-assignment.html)
+5. Group Vignette: (https://github.com/cbao2397/Machine-Learning_Group-Vignette/blob/master/group_vignette_machine_learning.html) 
+
 ***
 
 ### How well did you accomplish them?
@@ -77,6 +69,8 @@ Please let me know how many of the above tasks you accomplished. If any of them 
 ***
 
 Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?<br><br><br><br><br><br>
+
+I feel very proud of my Data Replication assignment, particularly because of how much time and effort I put into it. It started out as a very daunting task because they did not explicitly in the article say how they manipulated their data, so I had to work backwards from their figure that I replicated. This process taught me a lot about how people manipulate their data, sometimes to extremes that are not necessary. I also stayed on top of doing Modules and homework within the time frames, which was sometimes difficult because some homeworks were harder than others (Ex. HW4 Malfunction). Homework 4 did get to a point that I was satisfied with my work to hand it in, although looking back I think if my other classes were not as heavy I could have put more work into it. This was likely the hardest part of the course actually, finding time and energy to work on homework thoroughly since they took quite a bit more time than the modules. However, my understanding improved by the end of the course and I found myself applying coding techniques from previous work to my final assignments like Data Rep. and the Group Vignette, along with even helping fellow classmates who were not yet over the learning curve.
 
 ***
 
@@ -86,6 +80,7 @@ Please let me know how well you feel you accomplished your tasks, in a general s
 
 This may be in relation to previous knowledge, or in relation to future/planned work.<br><br><br><br><br><br><br><br>
 
+I have definitely developed more attention to detail when it comes to data management. Throughout the course I learned how important this aspect of project design is to being able to run statistics on your data with R. Examples of this include making the choice to omit NAs, the way you type data into excel, and how you can use R to rearrange data for associations (Ex. arrange, filter, select functions became very useful!). Beyond data organization and management, the way I interpret statistics has greatly improved from taking this course. While I had already learned about Spearman's Rho and p-value significance, this course allowed me to dive deeper into seeing how different types of tests could provide better interpretations to data and actually demonstrate how and why data is significant. I hope to apply both of these things in future R work, which is very important to zooarchaeology studies, and in making my future research replicable and easy to use in future studies. 
 ***
 
 ### What did you learn from all this?
@@ -93,6 +88,12 @@ This may be in relation to previous knowledge, or in relation to future/planned 
 ***
 
 Please name at least three things you feel you learned in this course.<br><br><br><br><br><br><br><br>
+
+1. Data management/organization
+2. Figure/Plot creation and how to make it approachable and "prettified".
+3. Data interpretation
+4. Statistical tests (Chi-square, ANOVA, etc.)
+5. Teamwork in coding format
 
 ***
 
@@ -102,6 +103,8 @@ Please name at least three things you feel you learned in this course.<br><br><b
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
+The Group Vignette taught me a lot about how important communication is to being a good teammate, which was discussed in some of the readings. Our group at first was having difficulty communicating goals for everyone to accomplish and making sure another teammate was not simply writing over another's work. We did have to have a serious conversation with this person to tell them they were not meeting the goals the group discussed and that they needed to keep us in the loop on what they were doing going forward. This conversation was successful and the teammate followed through in communicating and making sure to not overwrite another person's work, which I was part of communicating all of this to the individual. This led to a successful group assignment and no fracturing of collaborative relationships. On other assignments, I would often work with others to troubleshoot issues I ran into with coding, such as the Data Replication assignment, which I have worked alongside a Master's Student Ahna Feldstein (afelds@bu.edu) who is currently writing her research in R language and Angelique Lindberg, who is a fellow student in the class.
+
 ***
 
 ### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
@@ -109,6 +112,8 @@ Please name at least three things you feel you learned in this course.<br><br><b
 ***
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
+
+The peer commentary on homework assignments was extremely helpful and even let me improve my own coding syntax. Even when my partner and I had similar coding solutions, we always found ways to improve the others work whether it was by making code more organized or strengthening our interpretations. It also let me reflect on how well I could deliver constructive criticism professionally, sometimes I was afraid I may be coming across as rude so I could consult readings or simply approach it from a different angle to get across my criticism in a way that was polite and kind to my partner. This helped the way I communicated for the Group Project when helping people with their sections of code, possibly by asking them to explain concepts that other readers may not understand (other readers that include me) and finding ways to put long-winded code in one chunk. It also relates back to the answer I gave in the previous question about what I learned about teamwork. I believe doing both these processes showed me new ways (both syntactically and pleasing to look at) to write code that helped me succeed at later assignments and for future projects.
 
 ***
 
@@ -118,13 +123,15 @@ Please name at least three things you feel you learned in this course.<br><br><b
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
+Like I said previously, the ability to read data in depth and organize it is a strong skill I have taken from this course. I feel confident that in my own research I will employ techniques that make my data replicable and easier to interpret, alongside its accessibility to R language statistical tests. I already find myself looking at the figures in research papers I read for classes and asking myself "How did they make that? Can I do that?" because of the Data Replication assignment, and this makes me want to explore the uses of Rstudio more in future projects. It makes me raise questions on how people organize their data and how others can use it, as well as how well it can be presented in the final product, which could take the form of an html or website platform. I also think the ability to use and understand a coding platform like R has opened up new opportunities for my future, as it is being used more commonly in zooarchaeology and bioarchaeology, which are my fields of interest. This class allowed me to feel more confident with technology and prove to myself that I can understand what I previously thought to be "complex" coding techniques, that I even thought to never touch in research. While I took things of lasting value, I do think if I had the chance to take the class again I would like to work more on assignments like the Data Replication one to be able to work more with figure creation from data specifically within my field of interest, since this part of the class I learned the most from that will be applied in the future. 
+
 ***
 
 ### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
 
 ***
 
-<br><center>[insert letter grade here]</center><br>
+<br><center>[A]</center><br>
 
 ***
 
